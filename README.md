@@ -293,3 +293,4 @@ The system prompt for the study plan generator was iteratively refined with Clau
 | **Algorithmic Logic** | Rasch 1-PL IRT with gradient-ascent ability update; maximum-information question selection |
 | **AI Proficiency** | Structured JSON prompting;graceful fallback |
 | **Code Hygiene** | Full type hints; Pydantic v2 validation; env-var config; try/catch throughout; pytest suite |# ADAPTIVE
+# ADAPTIVE
